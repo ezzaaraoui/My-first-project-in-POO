@@ -14,6 +14,3 @@ class Car:
         print("Car braking")
     def boost(self):
         print("Car boosting")
-
-car1 = Car(1200,"red",144,"bmw")
-car1.accelerate()
